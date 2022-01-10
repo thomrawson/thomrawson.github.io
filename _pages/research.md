@@ -14,7 +14,7 @@ My research is based around the mathematical modelling of various public health 
 
 ### COVID-19
 
-The COVID-19 pandemic begun during the final year of my DPhil, during which I and other colleagues conducted work into the optimal control of nonpharmaceutical interventions (NPIs), namely lockdowns. Examples of this work can be found in my [publications](thomrawson.github.io/publications/). 
+The COVID-19 pandemic begun during the final year of my DPhil, during which I and other colleagues conducted work into the optimal control of nonpharmaceutical interventions (NPIs), namely lockdowns. Examples of this work can be found on my [publications](https://thomrawson.github.io/publications/) page. 
 
 Simultaneously I worked within the Oxford Martin School's [Open COVID-19 Data Working Group](https://www.oxfordmartin.ox.ac.uk/coronavirus-response/) to help curate an open-access database to track the increasing number of global COVID-19 cases. 
 
